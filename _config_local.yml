@@ -1,0 +1,5 @@
+# Local-preview overrides. Use with:
+#   bundle exec jekyll serve --config _config.yml,_config_local.yml
+# GitHub Actions ignores this file and uses _config.yml alone.
+imagemagick:
+  enabled: false

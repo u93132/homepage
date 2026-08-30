@@ -650,11 +650,11 @@ third_party_libraries:
 # Get external JSON data
 # -----------------------------------------------------------------------------
 
+# jekyll_get_json is disabled — the CV page uses _data/<lang>/cv.yml instead.
+# To switch to the JSON Resume format, restore entries like:
+#   - data: resume_en-us
+#     json: assets/json/resume_en-us.json
 jekyll_get_json:
-  - data: resume_en-us
-    json: assets/json/resume_en-us.json # it can also be an url
-  - data: resume_pt-br
-    json: assets/json/resume_pt-br.json # it can also be an url
 
 jsonresume:
   - basics
