@@ -28,12 +28,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-我是 Chin-Ta (Kiida) Lai，現任[國立臺灣大學土木工程學系](https://www.ce.ntu.edu.tw/)助理教授，研究領域為**結構控制、振動台動力學、系統識別與實驗技術**。
+我是賴晉達（Chin-Ta "Kiida" Lai），現任[國立臺灣大學土木工程學系](https://www.ce.ntu.edu.tw/)助理教授，研究領域為**結構控制、振動台動力學、系統識別與實驗技術**。
 
 我於 2024 年取得[加州大學聖地牙哥分校（UCSD）](https://ucsd.edu/)結構工程博士學位，指導教授為 Joel P. Conte 教授。博士研究主題為建立 [NHERI@UCSD 大型高性能戶外振動台（LHPOST6）](https://nheri.ucsd.edu/)——全世界最大的戶外振動台——在空台與載台狀態下的完整動力模型（數位孿生）。我同時擁有 UCSD 機械與航太工程碩士，以及臺大結構工程碩士學位。
 
 攻讀博士之前，我任職於[國家地震工程研究中心（NCREE）](https://www.ncree.narl.org.tw/)，曾擔任 NCREE 臺南實驗室 8m×8m 六自由度振動台系統的第一代主控操作人員，並參與 2m×2m Stewart 平台式振動台系統的採購與驗收。
 
 目前的研究獲教育部**玉山青年學者計畫**支持，並主持國科會**台北 101 風阻尼器主動控制技術**研究計畫。實驗室長期歡迎對結構控制、機器人學與實驗方法有興趣的同學加入，歡迎與我聯繫。
-
-<!-- TODO: 如要以中文姓名呈現，請將本頁與 _pages/zh-tw/cv.md 中的英文姓名改為中文姓名 -->
