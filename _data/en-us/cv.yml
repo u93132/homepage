@@ -1,0 +1,120 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Chin-Ta (Kiida) Lai
+    - name: Position
+      value: Assistant Professor, Department of Civil Engineering, National Taiwan University
+    - name: Email
+      value: ctlai@ntu.edu.tw
+    - name: Languages
+      value: Mandarin Chinese, English
+
+- title: Research Interests
+  type: list
+  contents:
+    - Structural control
+    - Shake table dynamics and digital twins
+    - System identification
+    - Experimental technology for earthquake engineering
+    - Robotics
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. in Structural Engineering
+      institution: University of California San Diego, US
+      year: 2019 - 2024
+      description:
+        - "Thesis: Dynamic Modeling of the NHERI UCSD 6-DOF Large High-Performance Outdoor Shake Table Under Bare and Loaded Table Conditions"
+        - "Advisor: Professor Joel P. Conte"
+    - title: M.S. in Mechanical and Aerospace Engineering
+      institution: University of California San Diego, US
+      year: 2019 - 2021
+      description:
+        - GPA 3.90/4.0
+    - title: M.S. in Structural Engineering
+      institution: National Taiwan University, Taiwan
+      year: 2014 - 2016
+      description:
+        - GPA 3.96/4.0, rank 1/43
+        - "Thesis: System Control Strategy on Floor Response Reproduction of High-rise Buildings Subjected to Earthquakes"
+        - "Advisors: Professor Keh-Chyuan Tsai, Professor Pei-Ching Chen"
+    - title: B.S. in Civil Engineering
+      institution: National Taiwan University, Taiwan
+      year: 2010 - 2014
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Assistant Professor
+      institution: Department of Civil Engineering, National Taiwan University, Taiwan
+      year: 2025 - now
+      description:
+        - Courses taught include Design of Steel Structure, Introduction to Robotics, Physical Model Design Laboratory, Seminar in Structural Mechanics, and Structural Engineering and Fluid Mechanics Lab.
+        - Committee of Environmental Protection, Occupational Safety and Health, NTUCE.
+        - Committee of Preparation, 18NCSE & 8NCEE.
+    - title: Graduate Research Assistant
+      institution: University of California San Diego, US
+      year: 2019 - 2025
+      description:
+        - Validated the design of the upgrade project for the world's largest outdoor shake table (LHPOST6) and analyzed acceptance test data for UCSD and NSF.
+        - Developed a comprehensive nonlinear dynamic model (digital twin) of the 6-DOF shake table system, including servo-hydraulic dynamics and dissipative forces.
+        - Studied the dynamic interaction between the shake table and the 10-story TallWood building specimen via coupled MATLAB/OpenSEES simulation.
+        - Developed Python/MATLAB toolkits for system identification, signal processing, and laboratory data conversion.
+    - title: Instructor / Lecturer
+      institution: University of California San Diego, US
+      year: 2023
+      description:
+        - "Course: SE130A Structural Analysis I (Summer 2023)."
+    - title: Junior Researcher / Assistant Technician
+      institution: National Center for Research on Earthquake Engineering (NCREE), Taiwan
+      year: 2016 - 2019
+      description:
+        - First-generation chief operator of the 8m×8m 6-DOF shake table system at NCREE Tainan Laboratory (opened 2017).
+        - Led procurement and acceptance testing of a 2m×2m Stewart-platform shake table system.
+        - Designed a spring-mass passive transfer system for shake table testing with adaptive feedback control.
+    - title: Graduate Research Assistant
+      institution: National Taiwan University, Taiwan
+      year: 2014 - 2016
+      description:
+        - Developed control strategies for floor response reproduction of high-rise buildings using shake tables.
+        - Improved acceleration-tracking performance of a uni-axial shake table via model-based feedback control.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2026
+      items:
+        - Research grant "Application of Active Control Technology to the Taipei 101 Wind Damper System" — National Science and Technology Council, Taiwan
+    - year: 2025
+      items:
+        - 5-year Yushan (Young) Scholar Program — Ministry of Education, Taiwan
+    - year: 2023 - 2024
+      items:
+        - Funding from NHERI@UCSD Large High-Performance Outdoor Shake Table — National Science Foundation, US
+    - year: 2021 - 2022
+      items:
+        - Government Scholarship for Study Abroad — Ministry of Education, Taiwan
+    - year: 2021
+      items:
+        - Honorable Mention Award — 2nd International Competition for Structural Health Monitoring
+    - year: 2020 - 2021
+      items:
+        - J. Yang Scholarship — University of California San Diego
+    - year: 2016
+      items:
+        - Excellent Presentation Award — 7th Monitoring and Control in Civil Engineering, Taiwan
+
+- title: Technical Skills
+  type: nested_list
+  contents:
+    - title: Programming languages and analysis tools
+      items:
+        - MATLAB, C/C++, Python
+    - title: Control software
+      items:
+        - MTS 469D, STEXPro, MOOG Test Suite, dSPACE DS1103, MicroLabBox
+    - title: Computer-aided design / engineering
+      items:
+        - ETABS, PISA3D, Abaqus, OpenSEES, AutoCAD, SketchUp

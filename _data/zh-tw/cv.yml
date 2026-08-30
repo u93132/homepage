@@ -1,0 +1,120 @@
+- title: 基本資料
+  type: map
+  contents:
+    - name: 姓名
+      value: Chin-Ta (Kiida) Lai
+    - name: 現職
+      value: 國立臺灣大學土木工程學系 助理教授
+    - name: 電子郵件
+      value: ctlai@ntu.edu.tw
+    - name: 語言
+      value: 中文、英文
+
+- title: 研究興趣
+  type: list
+  contents:
+    - 結構控制
+    - 振動台動力學與數位孿生
+    - 系統識別
+    - 地震工程實驗技術
+    - 機器人學
+
+- title: 學歷
+  type: time_table
+  contents:
+    - title: 結構工程博士
+      institution: 加州大學聖地牙哥分校（UCSD），美國
+      year: 2019 - 2024
+      description:
+        - 論文：NHERI UCSD 六自由度大型高性能戶外振動台於空台與載台狀態下之動力模型建構
+        - 指導教授：Joel P. Conte 教授
+    - title: 機械與航太工程碩士
+      institution: 加州大學聖地牙哥分校（UCSD），美國
+      year: 2019 - 2021
+      description:
+        - GPA 3.90/4.0
+    - title: 結構工程碩士
+      institution: 國立臺灣大學，臺灣
+      year: 2014 - 2016
+      description:
+        - GPA 3.96/4.0，排名 1/43
+        - 論文：高樓層樓板地震反應重現之系統控制策略
+        - 指導教授：蔡克銓 教授、陳沛清 教授
+    - title: 土木工程學士
+      institution: 國立臺灣大學，臺灣
+      year: 2010 - 2014
+
+- title: 經歷
+  type: time_table
+  contents:
+    - title: 助理教授
+      institution: 國立臺灣大學土木工程學系，臺灣
+      year: 2025 - 至今
+      description:
+        - 開授課程包含鋼結構設計、機器人學導論、實體模型設計實作、結構力學專題討論、結構工程與流體力學實驗。
+        - 臺大土木系環保暨職業安全衛生委員會委員。
+        - 第十八屆結構工程研討會暨第八屆地震工程研討會籌備委員。
+    - title: 研究助理（博士班）
+      institution: 加州大學聖地牙哥分校（UCSD），美國
+      year: 2019 - 2025
+      description:
+        - 驗證全球最大戶外振動台（LHPOST6）升級工程之設計，並協助 UCSD 與 NSF 分析驗收測試資料。
+        - 建立六自由度振動台系統之完整非線性動力模型（數位孿生），涵蓋伺服液壓動力學與非線性耗能行為。
+        - 以 MATLAB/OpenSEES 耦合模擬研究振動台與十層樓木構造試體（TallWood）之動力互制。
+        - 開發 Python/MATLAB 系統識別、訊號處理與實驗資料轉換工具。
+    - title: 授課講師
+      institution: 加州大學聖地牙哥分校（UCSD），美國
+      year: 2023
+      description:
+        - 課程：SE130A 結構分析（一）（2023 夏季）。
+    - title: 助理研究員／助理技術師
+      institution: 國家地震工程研究中心（NCREE），臺灣
+      year: 2016 - 2019
+      description:
+        - NCREE 臺南實驗室 8m×8m 六自由度振動台系統第一代主控操作人員（2017 年啟用）。
+        - 主導 2m×2m Stewart 平台式振動台系統之採購與驗收測試。
+        - 設計彈簧-質量式被動傳遞系統並導入適應性回饋控制。
+    - title: 研究助理（碩士班）
+      institution: 國立臺灣大學，臺灣
+      year: 2014 - 2016
+      description:
+        - 發展以振動台重現高樓層樓板地震反應之控制策略。
+        - 以模型為基礎之回饋控制改善單軸向振動台加速度追蹤性能。
+
+- title: 榮譽與獲獎
+  type: time_table
+  contents:
+    - year: 2026
+      items:
+        - 研究計畫「主動控制技術應用於台北 101 風阻尼器系統之位移抑制與消能提升」— 國家科學及技術委員會
+    - year: 2025
+      items:
+        - 五年期玉山青年學者計畫 — 教育部
+    - year: 2023 - 2024
+      items:
+        - NHERI@UCSD 大型高性能戶外振動台研究經費 — 美國國家科學基金會（NSF）
+    - year: 2021 - 2022
+      items:
+        - 公費留學獎學金 — 教育部
+    - year: 2021
+      items:
+        - 佳作 — 第二屆國際結構健康監測競賽
+    - year: 2020 - 2021
+      items:
+        - J. Yang 獎學金 — 加州大學聖地牙哥分校
+    - year: 2016
+      items:
+        - 優秀論文簡報獎 — 第七屆土木工程監測與控制研討會
+
+- title: 專業技能
+  type: nested_list
+  contents:
+    - title: 程式語言與分析工具
+      items:
+        - MATLAB、C/C++、Python
+    - title: 控制軟體
+      items:
+        - MTS 469D、STEXPro、MOOG Test Suite、dSPACE DS1103、MicroLabBox
+    - title: 電腦輔助設計／工程分析
+      items:
+        - ETABS、PISA3D、Abaqus、OpenSEES、AutoCAD、SketchUp

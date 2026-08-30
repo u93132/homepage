@@ -1,0 +1,164 @@
+archive:
+  prefix: 彙整：
+  category_suffix: 分類文章
+  tag_suffix: 標籤文章
+  year_suffix: 年份文章
+bibliography:
+  abstract: 摘要
+  awarded: 獲獎
+  blog: 部落格
+  book_prefix: 收錄於
+  code: 程式碼
+  last_author_prefix: 與
+  poster: 海報
+  slides: 簡報
+  supp: 補充資料
+  video: 影片
+  website: 網站
+blog:
+  navigation_title: 部落格
+categories:
+  fun: 趣味
+  work: 研究
+citation:
+  bibtex: 或以 BibTeX 格式引用：
+  introduction: 若本文對您有幫助，請以下列方式引用：
+collections:
+  books: 書籍
+  posts: 文章
+contact_note: 建議優先以電子郵件聯繫。
+cv:
+  address: 地址
+  area: 領域
+  awarder: 頒獎單位
+  awards: 獲獎
+  basics: 基本資料
+  certificates: 證書
+  city: 城市
+  countryCode: 國碼
+  courses: 課程
+  date: 日期
+  education: 學歷
+  email: 電子郵件
+  endDate: 結束日期
+  fluency: 流利程度
+  highlights: 重點
+  image: 圖片
+  institution: 機構
+  interests: 研究興趣
+  issuer: 發證單位
+  keywords: 關鍵字
+  label: 職稱
+  language: 語言
+  languages: 語言能力
+  level: 程度
+  location: 地點
+  name: 姓名
+  network: 平台
+  organization: 組織
+  phone: 電話
+  position: 職位
+  postalCode: 郵遞區號
+  present: 至今
+  profiles: 個人檔案
+  projects: 研究計畫
+  publications: 著作
+  publisher: 出版單位
+  reference: 推薦
+  references: 推薦人
+  region: 地區
+  releaseDate: 發布日期
+  score: 成績
+  skills: 專長
+  startDate: 開始日期
+  studyType: 學位
+  summary: 簡介
+  table_of_contents: 目錄
+  title: 職稱
+  url: 網址
+  username: 使用者名稱
+  volunteer: 志願服務
+  work: 經歷
+footer:
+  copyright: 版權所有
+  last_updated: 最後更新：
+footer_text: > # the ">" symbol means to ignore newlines until "titles:"
+  本網站以 <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> 及
+  <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a> 主題建置，
+  由 <a href="https://pages.github.com/" target="_blank">GitHub Pages</a> 提供服務。
+latest_posts: 最新文章
+months:
+  long:
+    january: 一月
+    february: 二月
+    march: 三月
+    april: 四月
+    may: 五月
+    june: 六月
+    july: 七月
+    august: 八月
+    september: 九月
+    october: 十月
+    november: 十一月
+    december: 十二月
+  short:
+    january: 1月
+    february: 2月
+    march: 3月
+    april: 4月
+    may: 5月
+    june: 6月
+    july: 7月
+    august: 8月
+    september: 9月
+    october: 10月
+    november: 11月
+    december: 12月
+news: 最新動態
+newsletter:
+  back: 返回
+  error: 發生錯誤，請再試一次。
+  subscribe: 訂閱
+  subscribed: 您已成功訂閱電子報。
+  subscribe_to_receive: 訂閱以接收最新文章通知：
+  too_many_signups: 訂閱人數過多，請稍後再試
+  wait: 請稍候…
+no_news: 目前沒有動態…
+no_posts: 目前沒有文章…
+pagination:
+  page: 頁
+post:
+  created_in: 發表於
+  created_by: 作者
+  last_updated: 最後更新於
+references: 參考資料
+related_posts:
+  description: 您可能也有興趣閱讀以下文章：
+  title: 喜歡這篇文章嗎？
+search:
+  dark_theme:
+    description: 將網站切換為深色主題
+    title: 切換為深色主題
+  dropdown: 下拉選單
+  email: 寄送電子郵件
+  footer:
+    close: 關閉
+    navigate: 瀏覽
+    parent: 回到上層
+    select: 選取
+  languages: 語言
+  light_theme:
+    description: 將網站切換為淺色主題
+    title: 切換為淺色主題
+  navigation: 導覽選單
+  news: 動態
+  placeholder: 輸入文字開始搜尋
+  posts: 文章
+  projects: 研究
+  socials: 社群連結
+  system_theme:
+    description: 將網站切換為系統預設主題
+    title: 使用系統預設主題
+  theme: 主題
+selected_publications: 精選著作
+site_description: 國立臺灣大學土木工程學系賴教授（Chin-Ta Lai）的學術個人網站——結構控制、振動台動力學、系統識別與實驗技術。

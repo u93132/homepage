@@ -1,0 +1,13 @@
+# this file contains the social media links and usernames of the author
+# the commented lines are the default social media links supported by the template
+# the socials will be displayed in the order they are defined here
+
+cv_pdf: /assets/pdf/[LANG]/Chin-Ta_Lai_CV.pdf # path to your CV PDF file
+email: ctlai@ntu.edu.tw # your email address
+# github_username: # TODO: your GitHub user name
+# linkedin_username: # TODO: your LinkedIn user name
+# orcid_id: # TODO: your ORCID ID
+rss_icon: false
+# scholar_userid: # TODO: your Google Scholar ID (the part after user= in your profile URL)
+# research_gate_profile: # your profile on ResearchGate
+# youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)

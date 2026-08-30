@@ -1,0 +1,19 @@
+_site
+.bundle
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+.DS_store
+.ruby-version
+.tweet-cache
+Gemfile.lock
+assets/libs/
+node_modules/
+vendor
+.idea
+.venv
+
+# personal source files (not part of the site)
+Chin-Ta Lai_CV.pdf
+Flyer_Chin-Ta Lai.pptx
+Poster_shake_table_Revised.pdf
