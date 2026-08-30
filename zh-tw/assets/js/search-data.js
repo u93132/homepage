@@ -43,7 +43,7 @@ ninja.data = [{
           },
         },{id: "nav-履歷",
           title: "履歷",
-          description: "Chin-Ta (Kiida) Lai 的履歷，可透過右側按鈕下載 PDF 版本。",
+          description: "賴晉達（Chin-Ta &quot;Kiida&quot; Lai）的履歷，可透過右側按鈕下載 PDF 版本。",
           section: "導覽選單",
           handler: () => {
             window.location.href = "/homepage/zh-tw/cv/";
